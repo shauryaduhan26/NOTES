@@ -1,0 +1,2 @@
+1. Identify aspects in the application that vary and seperate them from what stays the same. 
+- In simple words, identify the parts that vary and encapsulate them, so that at later point in time, you can easily alter them without affecting those that don't and hence they won't break.
